@@ -1,3 +1,34 @@
 packages:
   - '.'
   - 'examples'
+allowBuilds:
+  esbuild: true
+minimumReleaseAgeExclude:
+  - lodash@4.17.23
+  - diff@8.0.3
+  - fastify@5.7.3
+  - fastify@5.7.2
+  - '@isaacs/brace-expansion@5.0.1'
+  - minimatch@9.0.6
+  - minimatch@10.2.1
+  - rollup@4.59.0
+  - minimatch@9.0.7
+  - minimatch@10.2.3
+  - ajv@8.18.0
+  - fastify@5.8.3
+  - brace-expansion@2.0.3
+  - picomatch@4.0.4
+  - lodash@4.17.24
+  - vite@7.3.2
+  - follow-redirects@1.15.12
+  - axios@1.15.0
+  - postcss@8.5.10
+  - fastify@5.8.5
+  - axios@1.15.1
+  - axios@1.15.2
+  - axios@1.13.5
+  - fast-uri@3.1.1
+  - fast-uri@3.1.2
+  - ws@8.20.1
+  - axios@1.16.0
+  - vitest@4.1.0
